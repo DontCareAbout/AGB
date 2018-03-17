@@ -1,0 +1,2 @@
+# AGB
+Abstract Game Board(?)
